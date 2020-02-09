@@ -4,7 +4,7 @@ HQEncrypter - it's a simple and pretty flexiable encrypter.
 
 http://0x0.st/iiEu.png
 
-How to use:
+`How to use`:
 
 1)Open EncryptProject.exe
 
